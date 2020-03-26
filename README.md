@@ -1,5 +1,5 @@
-# Nets1
-Nets1 Project in C
+# Networks1
+Networks1 Project in C
 ## Project 1
 Analyzing Traffic Network with Wireshark and PCAP library
 ## Project 2
