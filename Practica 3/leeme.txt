@@ -1,0 +1,10 @@
+Práctica 3 de Redes de Comunicaciones I.
+Autores de la práctica:
+	Andrés Salas Peña - andres.salas@estudiante.uam.es
+	Francisco de Vicente Lana - francisco.vicentel@estudiante.uam.es
+
+Respecto a la entrega habría que aclarar que se adjunta un único script el cual genera todos los ficheros y gráficas necesarios para el análisis.
+Al terminar su ejecución, estos archivos quedarán clasificados en carpetas y se eliminarán cada vez que se vuelva a ejecutar.
+Podríamos haber hecho un bash modular de forma que el principal quedase considerablemente más simple y corto llamando a otros scripts auxiliares 
+(gnuplot y caluclo de ECDFs por awk), pero de cara a la entrega de un solo script decidimos no hacerlo.
+El resto de notas sobre nuestra práctica se encuentran en la introducción de la memoria.

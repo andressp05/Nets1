@@ -1,0 +1,4 @@
+Andres Salas Peña			andres.salas@estudiante.uam.es
+Francisco Vicente Lana		francisco.vicentel@estudiante.uam.es
+
+Adjuntos se encuentran sinfragmentar.txt y desfragmentado.txt como ejemplos de comprobación de resultados.
